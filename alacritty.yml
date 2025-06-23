@@ -1,0 +1,41 @@
+colors:
+  bright:
+    black: '#aca099'
+    blue: '#FE7545'
+    cyan: '#F5B9A2'
+    green: '#C53144'
+    magenta: '#FB8657'
+    red: '#F9553C'
+    white: '#f6e5db'
+    yellow: '#EF5843'
+  normal:
+    black: '#100113'
+    blue: '#FE7545'
+    cyan: '#F5B9A2'
+    green: '#C53144'
+    magenta: '#FB8657'
+    red: '#F9553C'
+    white: '#f6e5db'
+    yellow: '#EF5843'
+  primary:
+    background: '#100113'
+    foreground: '#f6e5db'
+font:
+  bold:
+    family: Victor Mono
+    style: Bold
+  bold_italic:
+    family: Victor Mono
+    style: Bold Italic
+  italic:
+    family: Victor Mono
+    style: Italic
+  normal:
+    family: Victor Mono
+    style: Regular
+  size: 12.0
+window:
+  opacity: 0.7
+  padding:
+    x: 12
+    y: 12
